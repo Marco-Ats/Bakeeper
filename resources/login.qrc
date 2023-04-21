@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="new">
+    <file>cake.gif</file>
+  </qresource>
+</RCC>
